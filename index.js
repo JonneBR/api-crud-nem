@@ -18,4 +18,4 @@ app.get("/", (req, res) => {
 });
 
 //entregar uma porta
-app.listen();
+app.listen(3000);
