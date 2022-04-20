@@ -1,0 +1,16 @@
+{
+  "name": "api-crud-nem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js localhost 3003"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
